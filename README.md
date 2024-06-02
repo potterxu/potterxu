@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Potter Xu, aka 新心灵舍圣徒
+### This is Potter Xu, aka 新心灵舍圣徒 (The saint of the new spiritual dwelling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89%E4%B8%8D%E5%A5%BD%E5%90%97%EF%BC%9F+%E8%83%BD%E6%B2%A1%E6%9C%89%E7%9B%AE%E7%9A%84%E7%9A%84%E6%B4%BB%E7%9D%80%E4%B8%8D%E5%A5%BD%E5%90%97%EF%BC%9F;%E4%B8%80%E8%B5%B7%E6%88%90%E4%B8%BA%E6%96%B0%E9%80%A0%E7%9A%84%E4%BA%BA%EF%BC%81)](https://git.io/typing-svg)
 <br/>
 [![Potter's github stats](https://github-readme-stats.vercel.app/api?username=potterxu&custom_title=新心灵舍手册)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,15 +17,15 @@
 </p>
 
 ### What I believe
-*一失足成千古恨*
+*一失足成千古恨 (A single misstep, a thousand years of bitter remorse)*
 
-*再回头已百年身*
+*再回头已百年身 (By the time one looks back, a lifetime has swiftly passed)*
 
-*舍弃**贪**、**嗔**、**痴***
+*舍弃**贪**、**嗔**、**痴** (Shed the shackles of greed, hatred, and delusion)*
 
-*来生再做新的人*
+*来生再做新的人 (And in the next dawn, be reborn as a person anew)*
 
-### My work in 新心灵舍
+### My work in 新心灵舍 (The new spiritual dwelling)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potterxu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
